@@ -1,2 +1,2 @@
-# LAMP-System
+# LAMP
 Event Monitoring System
